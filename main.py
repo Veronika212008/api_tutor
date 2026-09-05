@@ -1,2 +1,2 @@
-print("hi")
-print (2+3)
+a = int (input(" "))
+b = int (input(" "))
